@@ -1,0 +1,6 @@
+#Python Village
+#Problem 2
+
+s = 'wz533Zm6uaNNPngnKnsZrRqaziUoqpitkZeGLNPYUdFG8gLPhfzfDIvdvl8utZFs14h6YXHMkDOsmodermas1kpwNRdgfcambridgeifi9nbCifbNbipn8K474Czi3P7pRRjJZm4x0Tr9qKbyFkxtIpSUHh2CPEki0vJIDbcRgye1.'
+
+print(s[74:83] + " " + s[93:103])
