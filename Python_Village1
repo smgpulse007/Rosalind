@@ -1,0 +1,7 @@
+#Python Village 
+#Problem 1
+
+import math as m
+
+a = (966**2 + 806**2)
+print(a) 
